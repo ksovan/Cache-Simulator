@@ -1,5 +1,3 @@
-cachelab_readme.txt
-
 Name: Kyle Sovan
 
 Special Instructions for compiling the program:
